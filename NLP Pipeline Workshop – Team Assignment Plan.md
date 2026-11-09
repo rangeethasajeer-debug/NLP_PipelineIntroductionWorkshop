@@ -19,7 +19,7 @@ All remaining work in the NLP Pipeline Introduction notebook is in **Part 7: Cha
 
 Challenge 4 is roughly twice the size of Challenge 1, so the lighter roles also take on shared work.
 
-**Member 1: Challenge 1 + Integrator**
+**Rangeetha: Challenge 1 + Integrator**
 
 - [ ] Complete Challenge 1 (code + talking points)
 - [ ] Own the master notebook: merge everyone's cells, restart the kernel, run all cells top to bottom before submission
@@ -30,12 +30,12 @@ Challenge 4 is roughly twice the size of Challenge 1, so the lighter roles also 
 - [ ] Complete Challenge 2 (code + talking points)
 - [ ] Answer the Challenge 4 talking point "Did stemming or lemmatization reduce the token count much more?"
 
-**Member 3: Challenge 3 (including the optional BoW vector)**
+**Carlos: Challenge 3 (including the optional BoW vector)**
 
 - [ ] Complete Challenge 3, including the optional extension
 - [ ] Answer the Challenge 4 talking points on the Bag-of-Words view and whether you'd send it to an LLM
 
-**Member 4: Challenge 4 code + remaining talking points**
+**Namy: Challenge 4 code + remaining talking points**
 
 - [ ] Complete all Challenge 4 code, the cost estimate, and the reflection
 - [ ] Run the prompt through the pricepertoken.com token counter
